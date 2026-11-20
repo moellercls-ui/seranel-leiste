@@ -1,0 +1,24 @@
+{
+  "id": "seranel-leiste",
+  "title": "Seranel-Leiste",
+  "description": "Sichtbarer Boss-Balken für Seranel im Traumnetz-Kampf (0–16).",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Claus"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/leiste.css"
+  ],
+  "url": "https://github.com/moellercls-ui/seranel-leiste",
+  "manifest": "https://raw.githubusercontent.com/moellercls-ui/seranel-leiste/main/module.json",
+  "download": "https://raw.githubusercontent.com/moellercls-ui/seranel-leiste/main/seranel-leiste.zip"
+}
